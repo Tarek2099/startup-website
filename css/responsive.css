@@ -1,0 +1,577 @@
+
+@media (max-width: 498.98px) {
+
+    .banner-part .banner-text h2 {
+	font-size: 20px;
+    }
+    .banner-part .banner-text {
+        position: relative;
+        z-index: 999;
+        padding-top: 100px;
+        padding-bottom: 100px;
+    }
+    .banner-part .banner-text p {
+        padding-left: 50px;
+        padding-right: 50px;
+    }
+    .banner-part .banner-text h2::after {
+        height: 2px;
+        left: 50%;
+        top: 185%;
+    }
+    .slick-dots {
+        bottom: 5%;
+        left: 50%;
+    }
+    .about-part .about-text h3 {
+        text-align: center;
+        padding-top: 25px;
+    }
+    .about-part .about-text p {
+        padding-bottom: 10px;
+    }
+    .about-part .about-text a {
+        width: 100%;
+        text-align: center;
+    }
+    .video-section {
+        padding: 50px 0px;
+        position: relative;
+    }
+    .service-head::after {
+        top: 90px;
+        left: 50%;
+    }
+    .service-part .service-item {
+        padding-top: 40px;
+    }
+    .team-section .team-header::after {
+        top: 90px;
+        left: 50%;
+    }
+    .card {
+        width: 70%;
+        margin: 0 auto;
+    }
+    .text-left {
+        text-align: center;
+        padding-top: 25px;
+        padding-bottom: 10px;
+    }
+    .text-right {
+        padding-top: 0px;
+        padding-bottom: 25px;
+        text-align: center !important;
+    }
+    .project-section h5 {
+        text-align: center;
+    }
+    .project-bottom {
+        text-align: center;
+    }
+    .testimonial .testimonial-text p{
+        padding: 20px 10px;
+    }
+    .left-one{
+        display: none !important;
+    }
+    .right-one{
+        display: none !important;
+    }
+    .contact-section h3 {
+        text-align: center;
+    }
+    .contact-form a {
+        width: 100%;
+        text-align: center;
+    }
+    .client-text h3 {
+        padding-bottom: 25px;
+        padding-top: 30px;
+    }
+    .footer-left {
+        text-align: center;
+    }
+    .footer-center {
+        text-align: center;
+    }
+    .footer-center p {
+        padding-right: 10px;
+        text-align: center;
+    }
+    .footer-right {
+        text-align: center;
+    }
+    .form-inline {
+        padding-top: 20px;
+        text-align: center;
+        margin: 0 auto;
+        width: 86%;
+    }
+    .footer-terms ul {
+        padding: 0;
+        text-align: center;
+    }
+    .footer-terms .copyright p {
+        text-align: center;
+    }
+    .navbar-nav {
+        background: #3d3758;
+        width: 50%;
+        text-align: left;
+        padding: 5px 5px 5px 15px;
+        box-shadow: 1px 1px 5px;
+    }
+
+}
+/* // Extra small devices (portrait phones, less than 576px) */
+@media (min-width: 499px) and (max-width: 575.98px) {
+    .navbar-nav {
+        background: #3d3758;
+        width: 50%;
+        text-align: left;
+        padding: 5px 5px 5px 15px;
+        box-shadow: 1px 1px 5px;
+    }
+
+    .navbar {
+        height: 75px;
+    }
+
+    .banner-part .banner-text {
+        padding-top: 130px;
+        padding-bottom: 140px;
+    }
+
+    .banner-part .banner-text h2 {
+        font-size: 22px;
+    }
+
+    .banner-part .banner-text h2::after {
+        top: 50px;
+    }
+
+    .about-part .about-text h3 {
+        text-align: center;
+        padding-top: 25px;
+    }
+
+    .about-part .about-text p {
+        padding-bottom: 5px;
+    }
+
+    .about-part .about-text a {
+        display: block;
+        text-align: center;
+    }
+
+    .video-section {
+        padding: 50px 0px;
+    }
+
+    .service-part .service-item {
+        padding-top: 30px;
+    }
+
+    .slick-dots {
+        bottom: 0%;
+    }
+
+    .project-bottom {
+        text-align: center;
+    }
+
+    .right-one {
+       display: none !important;
+    }
+
+    .left-one {
+       display: none !important;
+    }
+
+    .text-left,
+    .text-right {
+        padding: 30px 0px;
+        text-align: center !important;
+    }
+
+    .text-right {
+        padding-top: 0;
+    }
+
+    .contact-form a {
+        width: 100%;
+        text-align: center;
+        margin-bottom: 20px;
+    }
+
+    .footer-center h4 {
+        padding-bottom: 15px;
+        padding-top: 15px;
+    }
+
+    .footer-terms {
+        padding-top: 20px;
+    }
+
+    .footer-terms .copyright p {
+        text-align: left;
+    }
+
+    .footer-left p {
+        text-align: center;
+    }
+
+    .footer-center {
+        text-align: center;
+    }
+
+    .footer-right h4 {
+        text-align: center;
+    }
+
+    .form-inline {
+        padding-top: 15px;
+        margin: 0 auto;
+        width: 60%;
+    }
+
+    .footer-right ul {
+        padding: 20px 0;
+        text-align: center;
+    }
+
+    .footer-terms ul {
+        padding: 0;
+        text-align: center;
+    }
+
+    .footer-terms .copyright p {
+        text-align: center;
+    }
+
+    .footer-left {
+        text-align: center;
+    }
+
+    .icon {
+        text-align: center;
+    }
+
+    .footer-center i {
+        display: inline;
+    }
+
+    .footer-center p {
+        padding-right: 0px;
+        padding: 0 75px;
+        text-align: center;
+    }
+
+    .client-text h3 {
+        padding-top: 25px;
+        text-align: center;
+    }
+
+    .contact-section h3 {
+        text-align: center;
+    }
+    .form-inline {
+        padding-top: 15px;
+        margin: 0 auto;
+        width: 52%;
+    }
+}
+
+/* // Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) and (max-width: 767.98px) {
+    .navbar-nav {
+        background: #3d3758;
+        width: 20%;
+        text-align: left;
+        padding: 5px 5px 5px 15px;
+        box-shadow: 1px 1px 5px;
+    }
+
+    .navbar{
+     height: 75px;
+    }
+
+.navbar-collapse {
+    height: 0px;
+}
+
+.banner-part .banner-text {
+    padding-top: 130px;
+    padding-bottom: 140px;
+}
+
+.banner-part .banner-text h2 {
+    font-size: 25px;
+}
+
+.banner-part .banner-text h2::after {
+    top: 50px;
+}
+
+.about-part .about-text h3 {
+    text-align: center;
+    padding-top: 25px;
+}
+
+.about-part .about-text p {
+    padding-bottom: 5px;
+}
+
+.about-part .about-text a {
+    display: block;
+    text-align: center;
+}
+
+.video-section {
+    padding: 80px 0px;
+}
+
+.service-part .service-item {
+    padding-top: 30px;
+}
+
+.slick-dots {
+    bottom: 8%;
+}
+
+.project-bottom {
+    text-align: center;
+}
+
+.right-one {
+    display: none !important;
+}
+
+.left-one {
+    display: none !important;
+}
+
+.banner-part .banner-text p {
+    padding-left: 90px;
+    padding-right: 90px;
+}
+
+.testimonial .testimonial-text p {
+    padding: 45px 100px;
+}
+
+.form-group a {
+    width: 100%;
+    text-align: center;
+}
+
+.client-text h3 {
+    padding-bottom: 30px;
+    padding-top: 35px;
+    text-align: center;
+}
+
+.footer-right h4 {
+    padding-top: 20px;
+}
+
+.form-inline {
+    padding-top: 15px;
+}
+
+.footer-center h4 {
+    padding-bottom: 15px;
+    padding-top: 15px;
+}
+
+.footer-terms {
+    padding-top: 20px;
+}
+
+.footer-terms .copyright p {
+    text-align: left;
+}
+
+.footer-right h4 {
+    text-align: left;
+}
+
+.form-inline {
+    padding-top: 15px;
+    margin: 0 auto;
+}
+
+.footer-right ul {
+    padding: 20px 0;
+}
+
+.footer-terms ul {
+    padding: 0;
+}
+
+.footer-terms .copyright p {
+    text-align: right;
+}
+
+
+.footer-center p {
+    padding-right: 0px;
+    text-align: left;
+}
+
+.icon {
+    text-align: right;
+}
+
+.footer-center i {
+    display: inline;
+}
+.footer-section {
+	text-align: center;
+}
+.footer-terms .copyright p {
+	text-align: center;
+}
+.footer-right h4 {
+	text-align: center;
+}
+.form-inline {
+	padding-top: 15px;
+	margin: 0 auto;
+	width: 59%;
+}
+
+}
+
+/* // Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 991.98px) {
+
+    .navbar {
+        text-align: center;
+    }
+
+    .navbar-nav {
+        background: #3d3758;
+        width: 15%;
+        text-align: left;
+        padding: 5px 5px 5px 15px;
+        box-shadow: 1px 1px 5px;
+    }
+
+    .banner-part .banner-text {
+        padding-top: 130px;
+        padding-bottom: 140px;
+    }
+
+    .about-part .about-text h3 {
+        text-align: center;
+        padding-top: 25px;
+    }
+
+    .about-part .about-text p {
+        padding-bottom: 5px;
+    }
+
+    .about-part .about-text a {
+        display: block;
+        text-align: center;
+    }
+
+    .video-section {
+        padding: 100px 0px;
+    }
+
+    .service-part .service-item {
+        padding-top: 30px;
+    }
+
+    .slick-dots {
+        bottom: 0%;
+    }
+
+    .project-bottom {
+        text-align: center;
+    }
+
+    .right-one {
+        bottom: 16%;
+        right: 23%;
+    }
+
+    .left-one {
+        bottom: 16%;
+        left: 23%;
+    }
+
+    .client-text h3 {
+        padding-top: 35px;
+    }
+
+    .client-text h3 {
+        text-align: center;
+    }
+
+    .footer-right ul {
+        display: inline-block;
+    }
+
+    .form-inline {
+        padding-top: 5px;
+    }
+
+    .service-part .service-item p {
+        padding: 0 64px;
+    }
+
+    .slick-dots {
+        bottom: 7%;
+    }
+
+    .banner-part .banner-text h2 {
+        font-size: 35px;
+    }
+
+}
+
+/* // Large devices (desktops, 992px and up) */
+@media (min-width: 992px) and (max-width: 1199.98px) {
+    .project-bottom .button2 {
+        padding: 15px 15px;
+    }
+
+    .right-one {
+        right: 28%;
+    }
+
+    .left-one {
+        left: 28%;
+    }
+
+    .form-inline button {
+        padding: 8px 15px;
+        margin-left: 0;
+    }
+
+    .text {
+        padding-left: 25px;
+        margin-top: -25px;
+    }
+
+    .footer-center p {
+        padding-right: 0px;
+    }
+
+    .footer-center p {
+        text-align: left;
+    }
+
+    .text {
+        padding-left: 25px;
+        margin-top: 0;
+    }
+
+}
+
+/* // Extra large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) {}
