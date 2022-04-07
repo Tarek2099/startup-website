@@ -1,2 +1,5 @@
-# Web Design Project
+# Responsive Website for a team
 https://tarek2099.github.io/tajam/
+
+# Responsive Website
+Nice design of a responsive website 🥗 . It contains a header, home, about, services, menu, app, contact and a footer. 🌓 first for mobile then for desktop.
